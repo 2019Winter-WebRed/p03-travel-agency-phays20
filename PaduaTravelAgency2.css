@@ -1,0 +1,26 @@
+/*
+* Peyton Hays
+* February 1, 2019
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { background-color:lightpink}
+
+}
+img{width:1000px; height: 1000px;}
+#Madiera {width: 600px; height: 600px; }
+#figure1 {float: right;}
+# Hurry Up {width: 100px; height: 100px;}
+#figure2 {float:right;}
+#The sea {width: 300px; height: 300px;}
+#figure3 {float: left;}
+#Flower { width: 400px; height: 400px; float: right;}
+
